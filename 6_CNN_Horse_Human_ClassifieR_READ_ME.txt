@@ -1,0 +1,1 @@
+https://storage.googleapis.com/tensorflow-1-public/course2/week3/horse-or-human.zip
